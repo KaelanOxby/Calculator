@@ -1,0 +1,6 @@
+C:\Users\djkro\source\repos\BasicMath\BasicMath\obj\Debug\Arithmetic.csprojAssemblyReference.cache
+C:\Users\djkro\source\repos\BasicMath\BasicMath\obj\Debug\Arithmetic.csproj.CoreCompileInputs.cache
+C:\Users\djkro\source\repos\BasicMath\BasicMath\bin\Debug\Arithmetic.dll
+C:\Users\djkro\source\repos\BasicMath\BasicMath\bin\Debug\Arithmetic.pdb
+C:\Users\djkro\source\repos\BasicMath\BasicMath\obj\Debug\Arithmetic.dll
+C:\Users\djkro\source\repos\BasicMath\BasicMath\obj\Debug\Arithmetic.pdb

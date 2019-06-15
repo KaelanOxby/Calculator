@@ -1,0 +1,6 @@
+C:\Users\djkro\source\repos\BasicMath\BasicMath\bin\Debug\BasicMath.dll
+C:\Users\djkro\source\repos\BasicMath\BasicMath\bin\Debug\BasicMath.pdb
+C:\Users\djkro\source\repos\BasicMath\BasicMath\obj\Debug\BasicMath.csprojAssemblyReference.cache
+C:\Users\djkro\source\repos\BasicMath\BasicMath\obj\Debug\BasicMath.csproj.CoreCompileInputs.cache
+C:\Users\djkro\source\repos\BasicMath\BasicMath\obj\Debug\BasicMath.dll
+C:\Users\djkro\source\repos\BasicMath\BasicMath\obj\Debug\BasicMath.pdb

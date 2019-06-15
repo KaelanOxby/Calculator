@@ -1,0 +1,11 @@
+C:\Users\djkro\source\repos\BasicMath\Trigonometric\bin\Debug\Trigonometric.dll
+C:\Users\djkro\source\repos\BasicMath\Trigonometric\bin\Debug\Trigonometric.pdb
+C:\Users\djkro\source\repos\BasicMath\Trigonometric\obj\Debug\Trigonometric.csprojAssemblyReference.cache
+C:\Users\djkro\source\repos\BasicMath\Trigonometric\obj\Debug\Trigonometric.csproj.CoreCompileInputs.cache
+C:\Users\djkro\source\repos\BasicMath\Trigonometric\obj\Debug\Trigonometric.dll
+C:\Users\djkro\source\repos\BasicMath\Trigonometric\obj\Debug\Trigonometric.pdb
+C:\Users\p457653\Desktop\BasicMath\Trigonometric\bin\Debug\Trigonometric.dll
+C:\Users\p457653\Desktop\BasicMath\Trigonometric\bin\Debug\Trigonometric.pdb
+C:\Users\p457653\Desktop\BasicMath\Trigonometric\obj\Debug\Trigonometric.csproj.CoreCompileInputs.cache
+C:\Users\p457653\Desktop\BasicMath\Trigonometric\obj\Debug\Trigonometric.dll
+C:\Users\p457653\Desktop\BasicMath\Trigonometric\obj\Debug\Trigonometric.pdb

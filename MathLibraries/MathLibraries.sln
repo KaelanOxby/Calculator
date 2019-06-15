@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2047
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arithmetic", "BasicMath\Arithmetic.csproj", "{1E729CDD-0187-4F79-BB55-31B0140C3D9E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Trigonometric", "Trigonometric\Trigonometric.csproj", "{D11C9C41-3D31-446B-BA65-19B3973B0514}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Algebraic", "Algebraic\Algebraic.csproj", "{73D02331-7914-45B4-89A8-C0D91EFFF695}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1E729CDD-0187-4F79-BB55-31B0140C3D9E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E729CDD-0187-4F79-BB55-31B0140C3D9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E729CDD-0187-4F79-BB55-31B0140C3D9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E729CDD-0187-4F79-BB55-31B0140C3D9E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D11C9C41-3D31-446B-BA65-19B3973B0514}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D11C9C41-3D31-446B-BA65-19B3973B0514}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D11C9C41-3D31-446B-BA65-19B3973B0514}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D11C9C41-3D31-446B-BA65-19B3973B0514}.Release|Any CPU.Build.0 = Release|Any CPU
+		{73D02331-7914-45B4-89A8-C0D91EFFF695}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73D02331-7914-45B4-89A8-C0D91EFFF695}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73D02331-7914-45B4-89A8-C0D91EFFF695}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73D02331-7914-45B4-89A8-C0D91EFFF695}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {36459694-965D-4B67-9CDB-466A71A5E2B3}
+	EndGlobalSection
+EndGlobal
